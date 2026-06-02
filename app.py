@@ -355,8 +355,7 @@ with st.sidebar:
     st.markdown("""
     <div class="sidebar-byline">
     <strong style="color: #1A1A1A;">Built by Sherriff Abdul-Hamid</strong><br>
-    Product leader — government digital services &amp;
-    safety net benefits delivery.<br><br>
+    Development Economist · Public-Sector AI Researcher · Applied Data Scientist.<br><br>
     USAID · UNDP · UKAID<br>
     Obama Foundation Leader (Top 1.3%)
     </div>
