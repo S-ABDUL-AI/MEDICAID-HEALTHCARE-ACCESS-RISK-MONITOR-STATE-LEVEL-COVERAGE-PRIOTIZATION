@@ -702,10 +702,10 @@ st.download_button(
 # ── FOOTER ─────────────────────────────────────────────────────
 st.markdown(f"""
 <div class="byline">
-<strong>Built by Sherriff Abdul-Hamid</strong> — Product leader specializing in government
-digital services, Medicaid-adjacent benefits delivery, and decision-support tools for
-underserved communities. Former Founder & CEO, Poverty 360 (25,000+ beneficiaries served).
-Obama Foundation Leaders Award · Mandela Washington Fellow · Harvard Business School.<br><br>
+<strong> Built by Sherriff Abdul-Hamid</strong> — Development economist and public-sector AI 
+researcher applying causal inference and cost-effectiveness analysis to social protection and public health systems. Founder and Executive Director, Poverty 
+360 — 58,000+ beneficiaries across five countries. Secured and managed multi-year institutional funding from USAID, UKAID, UNDP, and USADF across health, nutrition, and social protection 
+programmes. Obama Foundation Leaders Award · Mandela Washington Fellow · Harvard Business School.<br><br>
 <em>All built-in data is illustrative. For official Medicaid prioritisation, pair with
 CMS administrative data, ACS coverage statistics, and legal programme review processes.</em><br><br>
 View other projects:
